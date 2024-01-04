@@ -14,25 +14,40 @@
   background-attachment: fixed;
   height: 400px;
   width: 100%;
+  color: rgb(255, 136, 0);
+  text-align: center;
+  margin-top: 10px;
 }
 .contend{
-    width: 40%;
+    width: 30%;
     height: 250px;
     /* background-color: rgb(173, 246, 246); */
     margin-top: 20px;
     margin-left: 30px;
     padding: 20px;
-    
+ 
     text-align: center;
 }
 .contend-mneu{
     text-align: center;
-    background-color: rgb(244, 234, 220);
+    background-color: rgb(198, 236, 208);
     height: 200px;
-    color: blue;
+    color: rgb(22, 22, 210);
+    padding: 20px;
+    box-shadow: 20px 40px 60px rgb(145, 212, 197);
 }
-   
-
-
-
-}
+   .mee{
+    text-align:left;
+    margin-left:65px ;
+   }
+   .hee{
+    margin-bottom: 20px;
+   }
+   button{
+    font-size: 1.2rem;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    height: 40px;
+    width: 100px;
+   }
