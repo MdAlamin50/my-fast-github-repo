@@ -1,4 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 .man{
- background-color: chocolate;
- color: beige;
+ /* background-color: chocolate; */
+ /* color: beige; */
+ background-image: url('../alamin.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 400px;
+  width: 100%;
+}
+.contend{
+    width: 40%;
+    height: 250px;
+    /* background-color: rgb(173, 246, 246); */
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 20px;
+    
+    text-align: center;
+}
+.contend-mneu{
+    text-align: center;
+    background-color: rgb(244, 234, 220);
+    height: 200px;
+    color: blue;
+}
+   
+
+
+
 }
